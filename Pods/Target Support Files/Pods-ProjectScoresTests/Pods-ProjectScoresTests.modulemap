@@ -1,0 +1,6 @@
+framework module Pods_ProjectScoresTests {
+  umbrella header "Pods-ProjectScoresTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

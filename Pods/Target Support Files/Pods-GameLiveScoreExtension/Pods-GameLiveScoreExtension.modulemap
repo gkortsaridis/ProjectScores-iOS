@@ -1,0 +1,6 @@
+framework module Pods_GameLiveScoreExtension {
+  umbrella header "Pods-GameLiveScoreExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
